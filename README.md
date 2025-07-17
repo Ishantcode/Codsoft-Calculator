@@ -12,17 +12,14 @@ Author-Ishant Kumar
 
 ## 🚀 Live Demo
 
-🌐 [Click here to view the live site](https://anirban4ru.github.io/Codsoft-Calculator/)  
-📂 [GitHub Repository](https://github.com/Anirban4ru/Codsoft-Calculator)
+🌐 [Click here to view the live site](https://ishantcode.github.io/Codsoft-Calculator/)
+📂 [GitHub Repository](https://github.com/Ishantcode/Codsoft-Calculator.git)
 
 ---
 
 ## ✨ Features
 
 - 🧮 Basic arithmetic operations
-- 💡 Extended functions: %, √, ±
-- 🎯 Keyboard input support
-- 📱 Fully responsive & mobile-friendly
 - 🎨 Sleek & modern UI design
 
 ---
@@ -35,11 +32,6 @@ Author-Ishant Kumar
 
 ---
 
-## 📸 Preview
-
-![Calculator Preview](https://github.com/Anirban4ru/Codsoft-Calculator/raw/main/assets/preview.png)
-
----
 
 ## 📌 Internship Info
 
@@ -51,5 +43,5 @@ This project is a part of **CodSoft Web Development Internship Program**
 
 ## 🤝 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anirban%20Chatterjee-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/anirban4ru)
-[![GitHub](https://img.shields.io/badge/GitHub-Anirban4ru-black?style=flat-square&logo=github)](https://github.com/Anirban4ru)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ishant%20Kumar-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ishant-kumar-0827b2321)
+[![GitHub](https://img.shields.io/badge/GitHub-Ishantcode-black?style=flat-square&logo=github)](https://github.com/Ishantcode)
