@@ -1,6 +1,6 @@
 # Codsoft-Calculator
 Author-Ishant Kumar
-# ⚡ Sleek Modern Calculator
+# ⚡ Basic Calculator
 
 ![Status](https://img.shields.io/badge/Live%20Demo-Available-00bfff?style=flat-square&logo=githubpages)
 ![Internship](https://img.shields.io/badge/Task%203-Level%203-orange?style=flat-square&logo=codersrank)
