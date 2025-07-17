@@ -1,32 +1,24 @@
-let input = document.getElementById("inputBox");
-let buttons = document.querySelectorAll("button");
+// Get the display element
+const display = document.getElementById("display");
 
-let string = "";
-let arr = Array.from(buttons);
-arr.forEach(button => {
-    button.addEventListener("click", (e) => {
-        if(e.target.innerHTML == '=')
-        {
-            string = eval(string);
-            input.value = string;
-        }
+// Handle all button clicks
+document.querySelectorAll(".btn").forEach(button => {
+  button.addEventListener("click", () => {
+    const value = button.getAttribute("data-value");
 
-        else if(e.target.innerHTML == 'AC')
-        {
-            string = "";
-            input.value = string;
-        }
-
-        else if(e.target.innerHTML == 'DEL')
-        {
-            string = string.slice(0, -1);
-            input.value = string;
-        }
-
-        else
-        {
-            string += e.target.innerHTML;
-            input.value = string;
-        }
-    })
-})
+    if (value === "=") {
+      try {
+        // Evaluate the expression
+        display.value = eval(display.value);
+      } catch (e) {
+        display.value = "Error";
+      }
+    } else if (value === "C") {
+      display.value = ""; // Clear the display
+    } else if (value === "DEL") {
+      display.value = display.value.slice(0, -1); // Delete last character
+    } else {
+      display.value += value; // Append clicked button's value
+    }
+  });
+});
