@@ -12,7 +12,7 @@ Author-Ishant Kumar
 
 ## 🚀 Live Demo
 
-🌐 [Click here to view the live site](https://anirban4ru.github.io/Codsoft-Calculator/)  
+🌐 [Click here to view the live site]
 📂 [GitHub Repository](https://github.com/Ishantcode/Codsoft-Calculator.git)
 
 ---
