@@ -20,9 +20,6 @@ Author-Ishant Kumar
 ## ✨ Features
 
 - 🧮 Basic arithmetic operations
-- 💡 Extended functions: %, √, ±
-- 🎯 Keyboard input support
-- 📱 Fully responsive & mobile-friendly
 - 🎨 Sleek & modern UI design
 
 ---
@@ -35,11 +32,6 @@ Author-Ishant Kumar
 
 ---
 
-## 📸 Preview
-
-![Calculator Preview](https://github.com/Anirban4ru/Codsoft-Calculator/raw/main/assets/preview.png)
-
----
 
 ## 📌 Internship Info
 
