@@ -51,5 +51,5 @@ This project is a part of **CodSoft Web Development Internship Program**
 
 ## 🤝 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ishant%20Kumar-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/anirban4ru)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ishant%20Kumar-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ishant-kumar-0827b2321)
 [![GitHub](https://img.shields.io/badge/GitHub-Ishantcode-black?style=flat-square&logo=github)](https://github.com/Ishantcode)
